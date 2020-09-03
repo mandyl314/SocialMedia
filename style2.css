@@ -1,0 +1,24 @@
+/*.twitter{
+ background-size: cover;
+ background-image: url("./pictures/twitter.png") blue;
+ height: 150px;
+ width: 150px;
+} */
+h1{
+    text-align: center;
+    font-size: 75px;
+    color:darkblue;
+    font-family: Merriweather; 
+ }
+
+img{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+}
+
+body{
+    text-align: center;
+    background: wheat;
+ }
+
